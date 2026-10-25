@@ -1,0 +1,8 @@
+-r requirements.txt
+datasets
+pandas
+matplotlib
+numpy
+transformers
+accelerate
+bitsandbytes
